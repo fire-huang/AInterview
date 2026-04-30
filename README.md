@@ -47,3 +47,13 @@ AInterview/
 - [backend/README.md](backend/README.md) — 后端快速启动和 API 列表
 - [backend/DEVELOPMENT.md](backend/DEVELOPMENT.md) — 开发指南和架构
 - [backend/TEST.md](backend/TEST.md) — API 测试示例
+
+## 界面截图
+
+| 首页 | 创建面试 |
+|------|----------|
+| ![首页](docs/images/home.png) | ![创建面试](docs/images/create.png) |
+
+| 面试房间 | 面试报告 | 面试历史 |
+|----------|----------|----------|
+| ![面试房间](docs/images/room.png) | ![面试报告](docs/images/report.png) | ![面试历史](docs/images/history.png) |
