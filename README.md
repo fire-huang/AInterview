@@ -21,8 +21,11 @@ npm run dev       # http://localhost:5173
 ## 技术栈
 
 **前端**: React + TypeScript + Vite + Tailwind CSS
+
 **后端**: Node.js + Express + TypeScript + Prisma + PostgreSQL
+
 **AI**: DeepSeek (问答/评分) + DashScope Paraformer (语音识别)
+
 **实时**: Socket.IO + WebSocket STT proxy
 
 ## 页面
