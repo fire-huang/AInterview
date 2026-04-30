@@ -50,10 +50,13 @@ AInterview/
 
 ## 界面截图
 
-| 首页 | 创建面试 |
-|------|----------|
-| ![首页](docs/images/home.png) | ![创建面试](docs/images/create.png) |
-
-| 面试房间 | 面试报告 | 面试历史 |
-|----------|----------|----------|
-| ![面试房间](docs/images/room.png) | ![面试报告](docs/images/report.png) | ![面试历史](docs/images/history.png) |
+首页   
+![首页](docs/images/home.png) 
+创建面试
+![创建面试](docs/images/create.png) 
+面试房间
+![面试房间](docs/images/room.png)
+面试报告
+![面试报告](docs/images/report.png)
+面试历史
+![面试历史](docs/images/history.png)
