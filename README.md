@@ -55,11 +55,18 @@ AInterview/
 
 首页   
 ![首页](docs/images/home.png) 
+
 创建面试
 ![创建面试](docs/images/create.png) 
+
 面试房间
 ![面试房间](docs/images/room.png)
+
 面试报告
 ![面试报告](docs/images/report.png)
+
 面试历史
 ![面试历史](docs/images/history.png)
+
+个人中心
+![个人中心](docs/images/profile.png)
